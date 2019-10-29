@@ -18,6 +18,10 @@ Please choose versions by [Semantic Versioning](http://semver.org/).
 - Update Frappe to v12.0.16
 - Update Erpnext to v12.1.6
 
+## 3.4.2
+
+- Remove quotes from max_file_size 
+
 ## 3.4.1
 
 - Fix max_file_size 
