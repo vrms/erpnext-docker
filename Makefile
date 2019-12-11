@@ -2,7 +2,7 @@ PATH         := /opt/docker_utils/bin:$(PATH)
 SHELL        := env PATH=$(PATH) /bin/bash
 REGISTRY     ?= quay.io
 IMAGE        ?= seibertmedia/erpnext
-VERSION      ?= latest
+VERSION      ?= master
 VERSIONS     = $(VERSION)
 
 default: build
